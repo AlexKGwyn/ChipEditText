@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chip_height">32dp</dimen>
+    <dimen name="chip_space">8dp</dimen>
+    <dimen name="chip_text">12sp</dimen>
+    <dimen name="chip_horizontal_padding">4dp</dimen>
+    <dimen name="chip_vertical_padding">1dp</dimen>
+</resources>

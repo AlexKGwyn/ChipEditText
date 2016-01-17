@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Titus</item>
+        <item>Dwana</item>
+        <item>Lloyd</item>
+        <item>Shamika</item>
+        <item>Brady</item>
+        <item>Wilhemina</item>
+        <item>Shelli</item>
+        <item>Myung</item>
+        <item>Jenifer</item>
+        <item>Maryanna</item>
+        <item>Glynis</item>
+        <item>Terisa</item>
+        <item>Clinton</item>
+        <item>Paulina</item>
+        <item>Marvin</item>
+        <item>Madeleine</item>
+        <item>Bernadette</item>
+        <item>Shawnta</item>
+        <item>Marguerita</item>
+        <item>Alvin</item>
+        <item>Wesley</item>
+        <item>Milissa</item>
+        <item>Stephany</item>
+        <item>Felisa</item>
+        <item>Pierre</item>
+        <item>Portia</item>
+        <item>Kali</item>
+        <item>Dolores</item>
+        <item>Ramonita</item>
+        <item>Armandina</item>
+    </string-array>
+</resources>

@@ -29,7 +29,7 @@ dependencies {
 
 publish {
     userOrg = 'alexgwyn'
-    groupId = 'com.alexgwyn.chipedittext'
+    groupId = 'com.alexgwyn'
     artifactId = 'chipedittext'
     publishVersion = '1.0.0'
     desc = 'A view that can display chips as set out by the design guidelines'

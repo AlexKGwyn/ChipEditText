@@ -27,10 +27,9 @@ dependencies {
 }
 
 
-// ./gradlew clean build bintrayUpload -PbintrayUser=BINTRAY_USERNAME -PbintrayKey=BINTRAY_KEY -PdryRun=false
 publish {
     userOrg = 'alexgwyn'
-    groupId = 'com.alexgwyn'
+    groupId = 'com.alexgwyn.chipedittext'
     artifactId = 'chipedittext'
     publishVersion = '1.0.0'
     desc = 'A view that can display chips as set out by the design guidelines'

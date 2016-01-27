@@ -1,4 +1,6 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
+
 
 android {
     compileSdkVersion 23
@@ -23,3 +25,15 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
 }
+
+
+// ./gradlew clean build bintrayUpload -PbintrayUser=BINTRAY_USERNAME -PbintrayKey=BINTRAY_KEY -PdryRun=false
+publish {
+    userOrg = 'alexgwyn'
+    groupId = 'com.alexgwyn'
+    artifactId = 'chipedittext'
+    publishVersion = '1.0.0'
+    desc = 'A view that can display chips as set out by the design guidelines'
+    website = 'https://github.com/AlexKGwyn/ChipEditText'
+}
+
